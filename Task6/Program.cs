@@ -8,10 +8,10 @@ int number = int.Parse(Console.ReadLine());
 
 if (number % 2 == 0)
 {
-    Console.WriteLine("Четное");
+    Console.WriteLine("да");
 }
 else
 {
-  Console.WriteLine("Нечетное");  
+  Console.WriteLine("нет");  
 }
 
